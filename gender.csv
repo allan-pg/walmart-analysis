@@ -1,0 +1,3 @@
+gender,count(invoice_id)
+Male,498
+Female,497
