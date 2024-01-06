@@ -1,3 +1,6 @@
+# walmart dashboard
+![Capture](https://github.com/allan-pg/walmart-analysis/assets/62595869/92b98e40-acc8-4401-8b78-2646787e9bec)
+
 # walmart-analysis in sql
 ## Data Used
 
