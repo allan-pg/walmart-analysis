@@ -1,7 +1,7 @@
-# walmart dashboard
+# Walmart Data Analysis 
 ![Capture](https://github.com/allan-pg/walmart-analysis/assets/62595869/92b98e40-acc8-4401-8b78-2646787e9bec)
 
-# walmart-analysis in sql
+# Walmart analysis in sql
 ## Data Used
 
 **Data** - walmart Data with over 1001 rows from the year 2019 for the months of January to February.
@@ -33,3 +33,8 @@
  - Home and lifestyle had the highest tax rating of 16.03% .
  - Branch C had the highest revenue generated.
  - January had the highest number of revenue while february had the lowest revenue.
+
+ ## Reccomendations
+ - Improve quality of Home and lifestyle products so as to improve on rating.
+ - Invest more on female fashion accesories since they are mostly sort by female customers.
+ - Find out why Health and beauty had the least revenue.
